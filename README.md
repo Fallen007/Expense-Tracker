@@ -19,7 +19,7 @@ Here are the dependencies of this projects:
 9. concurrently
 10. nodemon
 
-## Here's a sample photos of the Expense Tracker built
+## Here's a sample photo of the Expense Tracker built
 
 <img src="./sample photos/Screenshot.png" width="100%" align="top-left" alt=""/>
 
